@@ -1,7 +1,7 @@
 {
-  "name": "@Prolix19/github-pkg-demo",
+  "name": "@prolix19/github-pkg-demo",
   "repository": {
-    "url": "git://github.com/Prolix19/github-pkg-demo.git"
+    "url": "git://github.com/prolix19/github-pkg-demo.git"
   },
   "version": "1.0.0",
   "description": "",
